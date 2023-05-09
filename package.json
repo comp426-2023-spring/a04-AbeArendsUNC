@@ -13,6 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2023-spring/a04-AbeArendsUNC.git"
   },
+  "type": "module",
   "author": "AbeArendsUNC",
   "license": "MIT",
   "bugs": {
